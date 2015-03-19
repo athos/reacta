@@ -1,10 +1,6 @@
-# parabola
+# reacta
 
-Hubot-like chat bot framework powered by Clojure/core.async
-
-## Usage
-
-FIXME
+This repositry is already deprecated. See https://github.com/athos/parabola instead.
 
 ## License
 
